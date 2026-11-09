@@ -49,8 +49,7 @@ Busco una oportunidad para realizar mi contrato de aprendizaje,
 participar en proyectos reales, aprender buenas prácticas de
 desarrollo y contribuir al trabajo de un equipo tecnológico.
 
-Mi etapa práctica está prevista para iniciar el 11 de diciembre
-de 2026.
+Mi etapa práctica está prevista para iniciar el 11 de enero de 2027.
 
 ## 📫 Contacto
 
